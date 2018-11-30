@@ -1,6 +1,6 @@
 ---
 name: Grant Application
-About: Submit a new grant idea 
+about: Submit a new grant idea 
 ---
 
 **Give a 3 sentence description about this proposal.**
