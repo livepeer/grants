@@ -7,7 +7,7 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 
 Amount: 300-3000 LPT
 
-**We are seeking projects and will provide funding for: **
+**We are seeking projects and will provide funding for:**
 * Data analytics: How do we gain visibility into the economics of the network? Supermax.cool/livepeer is an example of a dashboard built, but its not that easy to parse and others could build alternate dashboards with new features. 
 * Applications that make it easier for token holders to bond token. This could be a new staking application similar to the explorer (needed! See grant) This could be a custom wallet similar to the TezBox and Galleon wallets specific to the Tezos network. 
 * Applications, alerts or automations that make it easier for token holders to hold their transcoder accountable. 
