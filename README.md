@@ -27,5 +27,5 @@ Process should take 2-4 weeks
 [Alert Notification for Token Holders](https://github.com/Livepeer-Community-Node/Grant-Program/issues/2)
 Streamflow Staking DApp
 [Livepeer Community Platform](https://github.com/Livepeer-Community-Node/Grant-Program/issues/1)
-Translation + Sharing 
-Open Research Areas
+[Translation + Sharing](https://github.com/Livepeer-Community-Node/Grant-Program/issues/3) 
+[Open Research Areas](https://discord.gg/DN89pNn) View the Discord Category Research for areas we are offering grants. 
