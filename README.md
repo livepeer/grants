@@ -23,9 +23,9 @@ If application passes screening, we will reach out for a call
 Feedback will occur throughout grant process 
 Process should take 2-4 weeks 
 
-We have a wishlist of products that you can view here: 
+**Wishlist of products**
 Alert Notification for Token Holders
 Streamflow Staking DApp
-Livepeer Community Platform
+[Livepeer Community Platform](https://github.com/Livepeer-Community-Node/Grant-Program/issues/1)
 Translation + Sharing 
 Open Research Areas
