@@ -24,7 +24,7 @@ Feedback will occur throughout grant process
 Process should take 2-4 weeks 
 
 **Wishlist of products**
-Alert Notification for Token Holders
+[Alert Notification for Token Holders](https://github.com/Livepeer-Community-Node/Grant-Program/issues/2)
 Streamflow Staking DApp
 [Livepeer Community Platform](https://github.com/Livepeer-Community-Node/Grant-Program/issues/1)
 Translation + Sharing 
