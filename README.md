@@ -5,7 +5,7 @@ Livepeer is seven months into main net launch, and we’ve seen an incredible am
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, bond to our transcoder node, and contribute a portion of your inflationary reward to go towards these grants! *Node address: 0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc*
 
-Amount: 300-3000 LPT
+**Grant Amount Range:** 300-3000 LPT
 
 **We are seeking projects and will provide funding for:**
 * Data analytics: How do we gain visibility into the economics of the network? Supermax.cool/livepeer is an example of a dashboard built, but its not that easy to parse and others could build alternate dashboards with new features. 
