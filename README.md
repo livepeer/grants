@@ -16,7 +16,7 @@ Projects must be open source
 We are open to funding projects built by teams or individuals, although it helps to have both product/UX + backend for the apps. You can find individuals to join you and collaborate by joining Discord and posting in the #Hacker channel 
 
 How do I apply?
-Submit an application. Spec’d grants have specific application link
+Submit an [issue](https://github.com/Livepeer-Community-Node/Grant-Program/issues/new/choose). Spec’d grants have specific application link
 Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
 Application will be reviewed by Community Node Grant Committee 
 If application passes screening, we will reach out for a call 
