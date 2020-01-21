@@ -11,7 +11,7 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 * Developer Guides: Tutorials and guides that showcase how to use the Livepeer public network in an application
 * Transcoder Pools: The Streamflow proposal introduces the idea of public transcoding pools that operate under the purview of an Orchestrator. Help make this a reality.
 * Orchestrator Infrastructure Tools: Tools to help orchestrators better monitor and manage their transcoding infrastructure
-* GPU transcoding & Mining Operation Tools
+* GPU Transcoding & Mining Operation Tools
 
 **Requirements**
 * Projects must be open source 
