@@ -6,7 +6,7 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 
 **Grant Amount Range:** 300-3000 LPT
 
-**We are seeking projects and will provide LPT grants for:**
+**We are seeking projects and will provide grants for:**
 * Pricing Tools: Tools and guides to enable orchestrators and broadcasters to monitor and compare price/segment data (like an ETHgastation for Livepeer).
 * Developer Guides: Tutorials and guides that showcase how to use the Livepeer public network in an application
 * Orchestrator Infrastructure Tools: Tools to help orchestrators better monitor and manage their transcoding infrastructure
