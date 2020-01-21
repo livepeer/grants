@@ -1,6 +1,6 @@
 # The Livepeer Grant Program
 
-Since Livepeer's mainnet launch, and we’ve seen an incredible amount of participation from the community. Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grant Program provides contributors with grants ranging from 300 - 3000 LPT (subject to change). The grant program provides contributors with an opportunity to build a position in the network early on.
+Since Livepeer's mainnet launch, and we’ve seen an incredible amount of participation from the community. Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grant Program provides contributors with grants ranging from 300 - 3000 LPT (subject to change). The grant program provides contributors with an opportunity to build a position in the network.
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, stake with our orchestrator node, and contribute a portion of your inflationary reward to go towards these grants! *Node address: 0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc*
 
