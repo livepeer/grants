@@ -7,8 +7,9 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 **Grant Amount Range:** 300-3000 LPT
 
 **We are seeking projects and will provide grants for:**
-* Pricing Tools: Tools and guides to enable orchestrators and broadcasters to monitor and compare price/segment data (like an ETHgastation for Livepeer).
+* Pricing Tools: Tools and guides to help enable orchestrators and broadcasters monitor and compare off chain pricing (like an ETHgastation for Livepeer).
 * Developer Guides: Tutorials and guides that showcase how to use the Livepeer public network in an application
+* Transcoder Pools: The Streamflow proposal introduces the idea of public transcoding pools that operate under the purview of an Orchestrator. Help make this a reality.
 * Orchestrator Infrastructure Tools: Tools to help orchestrators better monitor and manage their transcoding infrastructure
 
 **Requirements**
