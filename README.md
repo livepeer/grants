@@ -20,7 +20,7 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 **How do I apply?**
 * Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. 
 * Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
-* Application will be reviewed by the Livepeer Grant Committee. If you are interested in joining this committee, ping RSAP on [Discord](https://discord.gg/cmpB7sH)
+* Application will be reviewed by the Livepeer Grant Committee. If you are interested in joining this committee, ping @adam on [Discord](https://discord.gg/cmpB7sH)
 * If application passes screening, we will reach out for a call 
 * Feedback will occur throughout grant process 
 * Process should take 2-4 weeks
