@@ -24,3 +24,6 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 * If your application passes screening, we will reach out for a call. 
 * Feedback will occur throughout the grant process 
 * Process should take 2-4 weeks
+
+
+_Note: This repo is migrated from the [previous repo](https://github.com/Livepeer-Community-Node/Grant-Program) to kick start the new grants process_
