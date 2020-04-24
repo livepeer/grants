@@ -25,5 +25,23 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 * Feedback will occur throughout the grant process 
 * Process should take 2-4 weeks
 
+**Grants Application Guideline**
+
+* **Measurable result**: There should be success metrics for the grant proposal. The success metrics measure the impact on the community.
+* **Achievable**: The proposal should be feasible - and sufficient research should be done ahead of time for its feasibility. If it’s a research grant, a well-formed problem statement should be included.
+* **Demonstration of capability**: The grant proposal party should demonstrate sufficient experience to successfully achieve the end goal outlined in the proposal. Prior experience in a similar area is highly preferred.
+* **Impact for Livepeer**: The grant proposal should have a direct impact on the success of Livepeer and its community. The grant should be impactful to the success of the proposal.
+
+**Grants Committee Success Metrics**
+
+The following measurements are the success metrics for the grants committee in H1 of 2020.
+
+* Approve / Reject 100% of all applications made for funding
+* Adhere to a guideline and be transparent about decision making
+* Public notes after every meeting
+* Get 3 positive case studies from the "Grant Program" before end of H1
+* Distribute LPT equivalent to $20k over before end of H1
+* Publish a google spreadsheet that records each payout
+
 
 _Note: This repo is migrated from the [previous repo](https://github.com/Livepeer-Community-Node/Grant-Program) to kick start the new grants process_
