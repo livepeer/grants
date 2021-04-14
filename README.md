@@ -36,7 +36,7 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 
 **Grants Committee Success Metrics**
 
-The following measurements are the success metrics for the grants committee in H1 of 2020.
+The following measurements are the success metrics for the grants committee in H1 of 2021.
 
 * Approve / Reject 100% of all applications made for funding
 * Adhere to a guideline and be transparent about decision making
