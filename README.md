@@ -1,12 +1,11 @@
-# The Livepeer Community Node Grant Program
+# The Livepeer Community Node Grants Program
 
-Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grant Program provides contributors with grants ranging from 300 - 3000 LPT (subject to change). The grant program provides contributors with an opportunity to build a position in the network.
+Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grants Program provides funding to projects, ideas and events that benefit the Livepeer ecosystem. The grant program provides contributors with an opportunity to fund their projects and build a position in the Livepeer network. The Livepeer Grants Program will distribute 1,500 LPT in quarterly phases with a semi annual review phase. 
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, stake with our orchestrator node, and contribute a portion of your inflationary reward to go towards these grants! *Node address: 0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc*
 
 Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgwWhP5R16kR1aGiOHw4HrK5fZ7bv8yBx4m876w/edit?usp=sharing).
 
-**Grant Amount Range:** 300-3000 LPT
 
 **We are seeking projects and will provide grants for:**
 * Pricing Tools: Tools and guides to help enable orchestrators and broadcasters monitor and compare off chain pricing (like an ETHgastation for Livepeer).
@@ -34,16 +33,6 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 * **Demonstration of capability**: The grant proposal party should demonstrate sufficient experience to successfully achieve the end goal outlined in the proposal. Prior experience in a similar area is highly preferred.
 * **Impact for Livepeer**: The grant proposal should have a direct impact on the success of Livepeer and its community. The grant should be impactful to the success of the proposal.
 
-**Grants Committee Success Metrics**
-
-The following measurements are the success metrics for the grants committee in H1 of 2021.
-
-* Approve / Reject 100% of all applications made for funding
-* Adhere to a guideline and be transparent about decision making
-* Public notes after every meeting
-* Get 3 positive case studies from the "Grant Program" before end of H1
-* Distribute LPT equivalent to $20k over before end of H1
-* Publish a google spreadsheet that records each payout
 
 
 _Note: This repo is migrated from the [previous repo](https://github.com/Livepeer-Community-Node/Grant-Program) to kick start the new grants process_
