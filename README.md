@@ -1,6 +1,6 @@
 # The Livepeer Community Node Grants Program
 
-Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grants Program provides funding to projects, ideas and events that benefit the Livepeer ecosystem. The grant program provides contributors with an opportunity to fund their projects and build a position in the Livepeer network. The Livepeer Grants Program will distribute 1,500 LPT in quarterly phases with a semi annual review phase. 
+Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grants Program provides funding to projects, ideas and events that benefit the Livepeer ecosystem. The grant program provides contributors with an opportunity to fund their projects and build a position in the Livepeer network. The Livepeer Grants Program will distribute $50,000 in quarterly phases with a semi annual review phase. 
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, stake with our orchestrator node, and contribute a portion of your inflationary reward to go towards these grants! *Node address: 0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc*
 
@@ -13,6 +13,9 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 * Transcoder Pools: The Streamflow proposal introduces the idea of public transcoding pools that operate under the purview of an Orchestrator. Help make this a reality.
 * Orchestrator Infrastructure Tools: Tools to help orchestrators better monitor and manage their transcoding infrastructure
 * GPU Transcoding & Mining Operation Tools
+* Broadcast Tools & Open Source Video Applications
+* Community Building & Educational Content
+* Protocol Infrastructure 
 
 **Requirements**
 * Projects must be open source 
@@ -21,10 +24,8 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 **How do I apply?**
 * Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. 
 * Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
-* Application will be reviewed by the Livepeer Grant Committee, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining this committee, ping @nelson, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.)
-* If your application passes screening, we will reach out for a call. 
+* Application will be reviewed by the Livepeer Grant Committee, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining this committee, ping @nelson, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) 
 * Feedback will occur throughout the grant process 
-* Process should take 2-4 weeks
 
 **Grants Application Guideline**
 
