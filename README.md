@@ -8,7 +8,11 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 
 
 **We are seeking projects and will provide grants for:**
-* Demand side applications and platforms that showcase the benefits of web3 video and drive traffic to the Livepeer network. We’d love to see more livestreaming, video applications, and creator platforms that harness the Livepeer network! 
+* Core Protocol development
+* Code Audits
+* Applications
+* Integrations
+* Marketing and Community Initatives
 
 **Requirements**
 * Projects must be open source 
