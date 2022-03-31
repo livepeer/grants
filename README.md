@@ -1,6 +1,6 @@
-# The Livepeer Community Node Grants Program
+# Livepeer Grants
 
-Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. The Livepeer Grants Program provides funding to projects, ideas and events that benefit the Livepeer ecosystem. The grant program provides contributors with an opportunity to fund their projects and build a position in the Livepeer network. The Livepeer Grants Program will distribute $50,000 in quarterly phases with a semi annual review phase. 
+Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. Livepeer Grants provides funding to projects, ideas and events that benefit the Livepeer ecosystem. The grants program provides contributors with an opportunity to fund their projects and build a position in the Livepeer network. Livepeer Grants aims to distribute upto $250,000 in grants each quarter with semi annual review phases. 
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, stake with our orchestrator node, and contribute a portion of your inflationary reward to go towards these grants! *Node address: 0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc*
 
@@ -8,14 +8,7 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 
 
 **We are seeking projects and will provide grants for:**
-* Pricing Tools: Tools and guides to help enable orchestrators and broadcasters monitor and compare off chain pricing (like an ETHgastation for Livepeer).
-* Developer Guides: Tutorials and guides that showcase how to use the Livepeer public network in an application
-* Transcoder Pools: The Streamflow proposal introduces the idea of public transcoding pools that operate under the purview of an Orchestrator. Help make this a reality.
-* Orchestrator Infrastructure Tools: Tools to help orchestrators better monitor and manage their transcoding infrastructure
-* GPU Transcoding & Mining Operation Tools
-* Broadcast Tools & Open Source Video Applications
-* Community Building & Educational Content
-* Protocol Infrastructure 
+* Demand side applications and platforms that showcase the benefits of web3 video and drive traffic to the Livepeer network. We’d love to see more livestreaming, video applications, and creator platforms that harness the Livepeer network! 
 
 **Requirements**
 * Projects must be open source 
@@ -24,7 +17,7 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 **How do I apply?**
 * Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. 
 * Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
-* Application will be reviewed by the Livepeer Grant Committee, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining this committee, ping @nelson, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) 
+* Application will be reviewed by Livepeer Grants, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining Livepeer Grants, ping @nelson, @shann, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) 
 * Feedback will occur throughout the grant process 
 
 **Grants Application Guideline**
