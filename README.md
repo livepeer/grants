@@ -10,7 +10,7 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 **We are seeking projects and will provide grants for:**
 * Core Protocol development
 * Code Audits
-* Applications
+* Open Source Public Good Applications
 * Integrations
 * Marketing and Community Initatives
 
