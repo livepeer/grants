@@ -16,7 +16,7 @@ Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgw
 
 **Requirements**
 * Projects must be open source 
-* We are open to funding projects built by teams or individuals, although it helps to have both product/UX + backend for the apps. Find people with complimentary skill sets to join you and collaborate by joining [Discord](https://discord.gg/cmpB7sH) and posting in the #Find-Hackers channel.
+* We are open to funding projects built by teams or individuals, although it helps to have both product/UX + backend for the apps. Find people with complimentary skill sets to join you and collaborate by joining [Discord](https://discord.gg/cmpB7sH) and posting in the #web3-app-ideas channel.
 
 **How do I apply?**
 * Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. 
