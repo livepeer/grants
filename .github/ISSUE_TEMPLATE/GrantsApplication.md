@@ -9,7 +9,9 @@ about: Submit a new grant idea
 
 **Describe the solution you are proposing and how it will have a positive impact on the Livepeer developer ecosystem.** 
 
-**Describe the scope of the project including a rough timeline and milestones.** 
+**Describe why you are the right team with the capability to build this.**
+
+**Describe the scope of the project including a 3 month timeline and milestones.** 
 
 **Please estimate hours spent on project based on the above and how much funding you will need.** 
 
