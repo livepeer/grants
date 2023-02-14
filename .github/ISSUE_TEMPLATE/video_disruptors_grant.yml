@@ -1,0 +1,84 @@
+name: Video Disruptors Grant
+description: teams looking to conduct cutting-edge video research and/or explore novel applications using Livepeer’s video compute network. Must be completed within 3 months with clearly defined milestones. Up to $15K.
+title: "[Video Disruptors Grant]: "
+labels: []
+assignees:
+  - hansy
+body:
+  - type: textarea
+    id: problemQuestion
+    attributes:
+      label: Please describe your project. Start with the need or problem you are trying to solve with this project. Describe why your solution is going to adequately solve this problem.
+    validations:
+      required: true
+  - type: input
+    id: githubLink
+    attributes:
+      label: Link to public GitHub repo (if applicable)
+    validations:
+      required: false
+  - type: input
+    id: demoLink
+    attributes:
+      label: Link to demo website (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: benfitQuestion
+    attributes:
+      label: Please describe in more detail why this proposal is valuable for the Livepeer ecosystem
+      description: What are the benefits to getting this right? What are the risks if you do not get it right? What are the risks that will make executing on this project difficult?
+    validations:
+      required: true
+  - type: textarea
+    id: deliverableQuestion
+    attributes:
+      label: Please describe in details what your final deliverable for this project will be.
+      description: Include a specification of the project and what functionality the software will deliver when it is finished
+    validations:
+      required: true
+  - type: textarea
+    id: milestoneQuestion
+    attributes:
+      label: Please break up your development work into a clear set of milestones 
+      description: For each milestone, please describe: (a) The software functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables, (b) How many people will be working on each milestone and their roles, (c) The amount of funding required for each milestone, (d) How much time this milestone will take to achieve (using real dates) 
+    validations:
+      required: true
+  - type: textarea
+    id: budgetQuestion
+    attributes:
+      label: Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds. 
+    validations:
+      required: true
+  - type: textarea
+    id: maintenanceQuestion
+    attributes:
+      label: Specify your team's long-term plans to maintain this software and upgrade it over time
+    validations:
+      required: true
+  - type: textarea
+    id: teamQuestion
+    attributes:
+      label: Please describe (in words) your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc.
+      description: Please also list each team member. For each team member, please include: (a) Name (b) Links to portfolio, website, and/or Github repo
+    validations:
+      required: true
+  - type: textarea
+    id: attributionQuestion
+    attributes:
+      label: How did you learn about the Livepeer Grants Program?
+    validations:
+      required: true
+  - type: textarea
+    id: hackathonQuestion
+    attributes:
+      label: Was this project started at a hackathon or another web3 event? Which one?
+      description: e.g. Encode Next Video Hackathon 2023, EthDenver 2023
+    validations:
+      required: true
+  - type: textarea
+    id: moreInfoQuestion
+    attributes:
+      label: Please include any additional information that you think would be useful in helping us to evaluate your proposal.
+    validations:
+      required: false
