@@ -1,7 +1,7 @@
 name: Video Builder Grant
 description: Grant application for hackathon winners and other tightly scoped projects. Must be completed in one month. Up to $2K.
 title: "[Builder Grant]: "
-labels: ["grant"]
+labels: []
 assignees:
   - hansy
 body:
