@@ -1,0 +1,68 @@
+name: Builder Grant
+description: Grant application for hackathon winners and other tightly scoped projects. Must be completed in one month. Up to $2K.
+title: "[Builder Grant]: "
+labels: ["grant"]
+assignees:
+  - hansy
+body:
+  - type: textarea
+    id: problemQuestion
+    attributes:
+      label: What is your project, and what problem does it solve?
+      description: (max 100 words)
+    validations:
+      required: true
+  - type: input
+    id: githubLink
+    attributes:
+      label: Link to public GitHub repo (if applicable)
+    validations:
+      required: false
+  - type: input
+    id: demoLink
+    attributes:
+      label: Link to demo website (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: livepeerUsageQuestion
+    attributes:
+      label: How is Livepeer used for this project?
+      description: (max 100 words)
+    validations:
+      required: true
+  - type: textarea
+    id: improvementQuestion
+    attributes:
+      label: How will you improve your project with this grant? What steps will you take to meet this objective?
+      description: (max 200 words)
+    validations:
+      required: true
+  - type: textarea
+    id: hackathonQuestion
+    attributes:
+      label: Was this project started at a hackathon or another web3 event? Which one?
+      description: e.g. Encode Next Video Hackathon 2023, EthDenver 2023
+    validations:
+      required: true
+  - type: textarea
+    id: deliverableQuestion
+    attributes:
+      label: What is the project’s expected deliverable at the conclusion of the grant time period? 
+      description: e.g. published blog post/docs/videos, working application launched to production, etc
+    validations:
+      required: true
+  - type: textarea
+    id: coreMechanicQuestion
+    attributes:
+      label: What is the one thing (the core mechanic) you want someone to do when using your deliverable? 
+      description: e.g. for a video NFT minting application, you may want users to be able to upload and mint a video NFT
+    validations:
+      required: true
+  - type: textarea
+    id: benefitQuestion
+    attributes:
+      label: How will this deliverable benefit the Livepeer ecosystem?  
+    validations:
+      required: true
+  
