@@ -51,7 +51,7 @@ Open grants will be awarded to individuals and teams building tooling and applic
 ## How to apply
 
 1. Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
-2. Application will be reviewed by Livepeer Grants, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining Livepeer Grants, ping @hansy, @shann, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) 
+2. Application will be reviewed by Livepeer Grants, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining Livepeer Grants, ping @hansy, @shann, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) Applications will receive a decision for funding within 2-4 weeks of applying.
 3. Feedback will occur throughout the grant process 
 
 ## Grants Application Guideline
