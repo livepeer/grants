@@ -30,7 +30,7 @@ Livepeer video builder grants are geared towards tightly scoped projects with a 
 - Educational guides/tutorials/videos targeted at a specific audience teaching them how to build with Livepeer.
 - Contributions to Livepeer documentation 
 
-[Apply for a Video Builder Grant here](https://github.com/livepeer/Grant-Program/issues/new/choose)
+[Apply for a Video Builder Grant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=video_builder_grant.yml&title=%5BBuilder+Grant%5D%3A+)
 
 ### Video Disruptor grants - up to $15,000 USD
 
@@ -40,13 +40,13 @@ We will also consider projects that either disrupt or offer entirely new video e
 
 Projects must be completed within 3 months or less with clearly defined monthly milestones. 
 
-[Apply for a Video Disruptor Grant here](https://github.com/livepeer/Grant-Program/issues/new/choose)
+[Apply for a Video Disruptor Grant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=video_disruptors_grant.yml&title=%5BVideo+Disruptors+Grant%5D%3A+)
 
 ### Open Livepeer Network grants 
 
 Open grants will be awarded to individuals and teams building tooling and applications to support supply-side node operations, delegation and overall health of the Livepeer Network. Examples of past open network grants include bots for better governance, educational content on how to get started as an Orchestrator or Delegator, tools to better parse/debug logs, etc.
 
-[Apply for an Open Livepeer Network Grant here](https://github.com/livepeer/Grant-Program/issues/new/choose)
+[Apply for an Open Livepeer Network Grant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=open_livepeer_network_grant.yml&title=%5BOpen+LN+Grant%5D%3A+)
 
 ## How to apply
 
