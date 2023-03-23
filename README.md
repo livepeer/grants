@@ -8,6 +8,8 @@ If you're appreciative of this initiative and all that it will do for the ecosys
 
 Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgwWhP5R16kR1aGiOHw4HrK5fZ7bv8yBx4m876w/edit?usp=sharing).
 
+After LPT is withdrawn from the staking pool in the community node, it is administered by the community grants committee via the multisig address arb:0x64e0aA4631ae8f74627e68Cf02565Bec30d2EA4F.
+
 ## Requirements
 
 Requirements for ALL GRANTS:
