@@ -54,7 +54,8 @@ Open grants will be awarded to individuals and teams building tooling and applic
 
 1. Submit an [issue](https://github.com/livepeer/Grant-Program/issues/new/choose). Product-based proposals must include specs in the submission. Include mockups, technical milestones, and time estimates. When in doubt breakdown milestones further. 
 2. Application will be reviewed by Livepeer Grants, which meets bi-weekly to discuss all on-going and proposed grants. (If you are interested in joining Livepeer Grants, ping @hansy, @shann, @adam, or @ericxtang in the #community-grants [Discord](https://discord.gg/cmpB7sH) channel.) Applications will receive a decision for funding within 2-4 weeks of applying.
-3. Feedback will occur throughout the grant process 
+3. Approved grants will receive 20% of the total grant value upfront, followed by graduated payments in the form of milestone completions. Payment is made in LPT (on Arbitrum) based on the USD value of the milestone. The price of LPT used to make the payments is determined using a rolling 30-day average from the time the transaction is queued.
+4. Feedback will occur throughout the grant process 
 
 ## Grants Application Guideline
 
