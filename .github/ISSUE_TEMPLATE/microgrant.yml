@@ -72,4 +72,11 @@ body:
       label: How will this deliverable benefit the Livepeer ecosystem?  
     validations:
       required: true
+  - type: input
+    id: walletAddress
+    attributes:
+      label: Wallet address
+       description: Optional, but supplying a wallet address may give access to relevant onchain credentials and ecosystem benefits
+    validations:
+      required: false
   
