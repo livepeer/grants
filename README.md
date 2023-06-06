@@ -23,16 +23,16 @@ Requirements for ALL GRANTS:
 
 There are 3 types of grants to support supply and demand for Livepeer’s open video infrastructure. Please choose the one most appropriate for you.
 
-### Video Builder grants - up to $2,000 USD
+### Microgrants - up to $2,000 USD
 
-Livepeer video builder grants are geared towards tightly scoped projects with a clear deliverable that can be completed in 1 month or less. Examples of such projects may be:
+Microgrants are geared towards tightly scoped projects with a clear deliverable that can be completed in 1 month or less. Examples of such projects may be:
 
 - Hackathon participants who want to complete a feature using Livepeer 
 - Existing projects looking to polish their Livepeer integrations with a well-defined sprint
 - Educational guides/tutorials/videos targeted at a specific audience teaching them how to build with Livepeer.
 - Contributions to Livepeer documentation 
 
-[Apply for a Video Builder Grant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=video_builder_grant.yml&title=%5BBuilder+Grant%5D%3A+)
+[Apply for a Microgrant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=video_builder_grant.yml&title=%5BBuilder+Grant%5D%3A+)
 
 ### Video Disruptor grants - up to $15,000 USD
 
