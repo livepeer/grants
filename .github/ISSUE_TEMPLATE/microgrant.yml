@@ -75,7 +75,7 @@ body:
   - type: input
     id: walletAddress
     attributes:
-      label: Wallet address
+      label: What's your wallet address?
       description: Optional, but supplying a wallet address may give access to relevant onchain credentials and ecosystem benefits
     validations:
       required: false
