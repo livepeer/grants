@@ -76,7 +76,7 @@ body:
     id: walletAddress
     attributes:
       label: Wallet address
-       description: Optional, but supplying a wallet address may give access to relevant onchain credentials and ecosystem benefits
+      description: Optional, but supplying a wallet address may give access to relevant onchain credentials and ecosystem benefits
     validations:
       required: false
   
