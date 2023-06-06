@@ -32,7 +32,7 @@ Microgrants are geared towards tightly scoped projects with a clear deliverable 
 - Educational guides/tutorials/videos targeted at a specific audience teaching them how to build with Livepeer.
 - Contributions to Livepeer documentation 
 
-[Apply for a Microgrant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&template=video_builder_grant.yml&title=%5BBuilder+Grant%5D%3A+)
+[Apply for a Microgrant here](https://github.com/livepeer/Grant-Program/issues/new?assignees=hansy&labels=&projects=&template=microgrant.yml&title=%5BMicrogrant%5D%3A+)
 
 ### Video Disruptor grants - up to $15,000 USD
 
