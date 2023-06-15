@@ -77,7 +77,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: workshopLivepeerContent
+    id: workshopPlannedTalks
     attributes:
       label: Please provide more information on planned talks and workshops (both confirmed and not yet confirmed)
       description: If "Yes" answered for "Are Workshops/Talks part of the event?"
