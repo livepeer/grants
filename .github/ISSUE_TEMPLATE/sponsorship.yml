@@ -66,7 +66,7 @@ body:
     attributes:
       label: Are Workshops/Talks part of the event?
       options:
-        - label: Yes
+        - label: "Yes"
     validations:
       required: true
   - type: textarea
