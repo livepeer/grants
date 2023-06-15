@@ -1,0 +1,178 @@
+name: Sponsorship Request
+description: Application for groups looking for sponsorship or participation (in the form of speakers) for hackathons, conferences, and bootcamps.
+title: "[Sponsorship]: <Event Name Here>"
+labels: []
+assignees:
+  - shann7
+body:
+  - type: input
+    id: referral
+    attributes:
+      label: Referral
+      description: How did you find out about Livepeer?
+    validations:
+      required: true
+  - type: input
+    id: poc
+    attributes:
+      label: Point of Contact
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+    validations:
+      required: true
+  - type: textarea
+    id: teamBio
+    attributes:
+      label: Team Bio
+    validations:
+      required: true
+  - type: textarea
+    id: prevEvents
+    attributes:
+      label: Previously Organized Events
+      description: Please list event name, year, and any relevant links
+    validations:
+      required: true
+  - type: dropdown
+    id: eventType
+    attributes:
+      label: Event Type
+      options:
+        - Hackathon
+        - Conference
+        - One-Off Event
+        - Bootcamp
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: sponsorshipType
+    attributes:
+      label: Type of Sponsorship Requested
+      options:
+        - label: Financial
+        - label: Speakers
+        - label: Mentors
+        - label: Judges
+        - label: Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: hasWorkshop
+    attributes:
+      label: Are Workshops/Talks part of the event?
+      options:
+        - label: Yes
+    validations:
+      required: true
+  - type: textarea
+    id: workshopLivepeerContent
+    attributes:
+      label: Please share more information on planned Livepeer-related content
+      description: If "Yes" answered for "Are Workshops/Talks part of the event?"
+    validations:
+      required: false
+  - type: textarea
+    id: workshopLivepeerContent
+    attributes:
+      label: Please provide more information on planned talks and workshops (both confirmed and not yet confirmed)
+      description: If "Yes" answered for "Are Workshops/Talks part of the event?"
+    validations:
+      required: false
+  - type: input
+    id: budget
+    attributes:
+      label: Budget Requested
+    validations:
+      required: true
+  - type: textarea
+    id: otherSponsors
+    attributes:
+      label: Other Sponsors
+      description: List of other sponsors of the event. Both confirmed sponsors, and potential sponsors you are still confirming
+    validations:
+      required: true
+  - type: input
+    id: startDate
+    attributes:
+      label: Start Date of the Event
+      placeholder: mm/dd/yyyy
+    validations:
+      required: true
+  - type: input
+    id: endDate
+    attributes:
+      label: End Date of the Event
+      placeholder: mm/dd/yyyy
+    validations:
+      required: true
+  - type: textarea
+    id: durationInfo
+    attributes:
+      label: More Information on Duration
+      description: If simple start and end date doesn't apply for the event you are organizing, please provide more information
+    validations:
+      required: false
+  - type: input
+    id: location
+    attributes:
+      label: Location of the Event
+    validations:
+      required: true
+  - type: textarea
+    id: locationInfo
+    attributes:
+      label: More Information on Location
+      description: Share any relevant information on the location
+    validations:
+      required: false
+  - type: input
+    id: attendeesNum
+    attributes:
+      label: Expected Number of Attendees
+    validations:
+      required: true
+  - type: checkboxes
+    id: targetAudience
+    attributes:
+      label: Who is the Target Audience of the Event?
+      options:
+        - label: Students
+        - label: Developers - newcommers to space
+        - label: Developers - expeienced builders
+        - label: Academia
+        - label: Livepeer Users/Community
+        - label: Broader Crypto Community
+        - label: Potential New Users of web3 video/Livepeer
+        - label: Other
+    validations:
+      required: true
+  - type: textarea
+    id: tailored
+    attributes:
+      label: How is the event tailored for the Target Audience?
+    validations:
+      required: true
+  - type: textarea
+    id: promotion
+    attributes:
+      label: How do you plan to promote your event to potential attendees?
+    validations:
+      required: true
+  - type: textarea
+    id: connect
+    attributes:
+      label: How can Livepeer connect with audience after the event?
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Share any useful links you might have
+    validations:
+      required: false
