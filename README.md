@@ -65,3 +65,10 @@ Open grants will be awarded to individuals and teams building tooling and applic
 - **Impact for Livepeer**: The grant proposal should have a direct impact on the success of Livepeer and its community. The grant should be impactful to the success of the proposal.
 
 _Note: This repo is migrated from the [previous repo](https://github.com/Livepeer-Community-Node/Grant-Program) to kick start the new grants process_
+
+## Sponsorship Requests
+
+Interested in partnering with the Livepeer? We’d love to hear how we can join forces to drive awareness, understanding, and adoption of crypto technologies further into mainstream and digital-native audiences.
+
+For any sponsorship requests for your conference, hackathon, event, etc, please fill out the [following application](https://github.com/livepeer/Grant-Program/issues/new?assignees=shann7&labels=&projects=&template=sponsorship.yml&title=%5BSponsorship%5D%3A+%3CEvent+Name+Here%3E).
+
