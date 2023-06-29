@@ -1,6 +1,6 @@
 name: Sponsorship Request
 description: Application for groups looking for sponsorship or participation (in the form of speakers) for hackathons, conferences, and bootcamps.
-title: "[Sponsorship]: <Event Name Here>"
+title: "[Sponsorship]: Event Name"
 labels: []
 assignees:
   - shann7
