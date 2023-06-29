@@ -60,7 +60,7 @@ body:
     id: teamQuestion
     attributes:
       label: Please describe (in words) your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc.
-      description: Please also list each team member. For each team member, please include - (a) Name (b) Links to portfolio, website, and/or Github repo
+      description: Please also list each team member. For each team member, please include - (a) Name (b) Links to portfolio, website, and/or Github repo (c) Location (d) *Optionally* wallet address for access to relevant onchain credentials and ecosystem benefits
     validations:
       required: true
   - type: textarea
