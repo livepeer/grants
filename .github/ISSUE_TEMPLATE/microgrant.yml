@@ -72,6 +72,12 @@ body:
       label: How will this deliverable benefit the Livepeer ecosystem?  
     validations:
       required: true
+  - type: textarea
+    id: attributionQuestion
+    attributes:
+      label: How did you learn about the Livepeer Grants Program?
+    validations:
+      required: true
   - type: input
     id: walletAddress
     attributes:
