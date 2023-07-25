@@ -64,6 +64,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: usersQuestion
+    attributes:
+      label: Who is your target user group? How do you plan on getting your users to use this?
+    validations:
+      required: true
+  - type: textarea
     id: attributionQuestion
     attributes:
       label: How did you learn about the Livepeer Grants Program?
