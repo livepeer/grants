@@ -19,4 +19,5 @@ jobs:
           close-issue-message: "This issue has been automatically closed."
           days-before-pr-stale: -1
           days-before-pr-close: -1
+          exempt-issue-labels: help wanted
           repo-token: ${{ secrets.GITHUB_TOKEN }}
