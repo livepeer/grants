@@ -6,7 +6,7 @@ Grants are paid in Livepeer token (LPT), providing contributors with an opportun
 
 If you're appreciative of this initiative and all that it will do for the ecosystem, stake with our orchestrator node, and contribute a portion of your inflationary reward to go towards these grants! Node address: **0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc**.
 
-Current grants program [tracker](https://docs.google.com/spreadsheets/d/12B-NUgwWhP5R16kR1aGiOHw4HrK5fZ7bv8yBx4m876w/edit?usp=sharing).
+Current grants program [tracker](https://livepeer.notion.site/37f787d7b4814840a7ac6b098eccb492?v=aa0d841cc2a641be9b8859605eba351d&pvs=4).
 
 After LPT is withdrawn from the staking pool in the community node, it is administered by the community grants committee via the multisig address arb:0x64e0aA4631ae8f74627e68Cf02565Bec30d2EA4F.
 
