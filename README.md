@@ -18,6 +18,7 @@ Requirements for ALL GRANTS:
 - Showcaseable
 - We are open to funding projects built by teams or individuals, although it helps to have both product/UX + backend for the apps. Find people with complimentary skill sets to join you and collaborate by joining Discord and posting in the #web3-app-ideas channel.
 - Grants must be achievable within a 3 month timeline
+- Projects must display a "Powered by Livepeer" watermark, when applicable, to their application. It must be visible while a viewer is watching the video, whether that's in the player itself or in another location that would be easily seen by a viewer.
 
 ## Grant Types
 
