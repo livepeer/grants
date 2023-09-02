@@ -91,4 +91,13 @@ body:
       description: Optional, but supplying a wallet address may give access to relevant onchain credentials and ecosystem benefits
     validations:
       required: false
+  - type: checkboxes
+    id: livepeerWatermarkConsent
+    attributes:
+      label: Do you consent to using "Powered by Livepeer" watermark on your application?
+      options:
+        - label: "Yes"
+        - label: "No"
+    validations:
+      required: true
   
