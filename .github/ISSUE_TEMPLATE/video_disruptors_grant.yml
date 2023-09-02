@@ -88,3 +88,12 @@ body:
       label: Please include any additional information that you think would be useful in helping us to evaluate your proposal.
     validations:
       required: false
+  - type: checkboxes
+    id: livepeerWatermarkConsent
+    attributes:
+      label: Do you consent to using "Powered by Livepeer" watermark on your application?
+      options:
+        - label: Yes
+        - label: No
+    validations:
+      required: true
