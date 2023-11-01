@@ -1,3 +1,6 @@
+# Deprecated
+This repo is now deprecated. Please visit the [Livepeer Grants homepage](https://livepeer.notion.site/Livepeer-Grants-Program-f91071b5030d4c31ad4dd08e7c026526?pvs=4) to apply for a grant.
+
 # Livepeer Grants
 
 Livepeer has a long term vision to build an open source and  fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. Livepeer Grants provide funding to projects that benefit the Livepeer ecosystem.
