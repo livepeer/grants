@@ -10,12 +10,6 @@ jobs:
       - name: Send Discord notification
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_EMBEDS: |
-            [
-              {
-                "title": "${{github.event.issue.title}}"
-              }
-            ]
         uses: Ilshidur/action-discord@0.3.2
         with:
           args: "New grant application"
