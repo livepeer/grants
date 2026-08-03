@@ -1,5 +1,8 @@
-# Deprecated
-This repo is now deprecated. Please visit the [Livepeer Grants homepage](https://livepeer.notion.site/Livepeer-Grants-Program-f91071b5030d4c31ad4dd08e7c026526?pvs=4) to apply for a grant.
+> [!IMPORTANT]
+> ## This repository is deprecated
+>
+> This repository is no longer maintained.  
+> To apply for a grant, visit the **[Livepeer Grants homepage](https://app.notion.com/p/Grants-Funding-Mechanisms-2bf660222d0881e79947f5bd7ac1aa44?source=copy_link)**.
 
 # Livepeer Grants
 
