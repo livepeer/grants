@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!WARNING]
 > ## This repository is deprecated
 >
 > This repository is no longer maintained.  
